@@ -22,7 +22,7 @@ Os dados analisados incluem informações sobre várias características das cas
 
 ### Modelo com `AveRooms`
 
-- **Mean Squared Error (MSE):** 1.159
+- **Mean Squared Error (MSE):** 1.15a
 - **R^2 Score:** 0.093
 - **Coeficiente:** -0.465
 - **Intercepto:** 3.405
